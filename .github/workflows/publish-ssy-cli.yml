@@ -1,4 +1,4 @@
-name: ToNpm
+name: PublishToNpm
 
 on:
   push:
